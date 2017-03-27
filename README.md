@@ -28,7 +28,7 @@ Also notice that the types are automatically generated. If you want to contribut
 
 The library has not been exhaustively tested, please pay attention to the correctness of the results you get.
 
-*Important*. This library should be used with the knowledge that converting values and perform some operations on the values might result in loss of precision. The limitation come from the fact that the underlying type is `Float`. Converting `LightYear`s to `Millimitre`s might not work as well as you expect!
+*Important*. This library should be used with the knowledge that converting values and perform some operations on the values might result in loss of precision. The limitation come from the fact that the underlying type is `Float`. Converting `LightYear`s to `Millimetre`s might not work as well as you expect!
 
 ## install
 
